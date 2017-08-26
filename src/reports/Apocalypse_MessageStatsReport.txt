@@ -1,0 +1,20 @@
+Message stats for scenario Apocalypse
+sim_time: 42303.3000
+created: 69
+started: 546
+relayed: 541
+aborted: 5
+dropped: 512
+removed: 0
+delivered: 59
+delivery_prob: 0.8551
+response_prob: 0.0000
+overhead_ratio: 8.1695
+latency_avg: 2758.2763
+latency_med: 2228.7000
+hopcount_avg: 1.5254
+hopcount_med: 1
+buffertime_avg: 2405.1291
+buffertime_med: 1464.2000
+rtt_avg: NaN
+rtt_med: NaN

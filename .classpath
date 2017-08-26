@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Mini_Project/one_1.5.1-RC2/lib/DTNConsoleConnection.jar"/>
+	<classpathentry kind="lib" path="C:/Mini_Project/one_1.5.1-RC2/lib/ECLA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv-2.4.13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Xuggler_with_dependencies"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

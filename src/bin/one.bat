@@ -1,0 +1,1 @@
+java -Xmx512M -cp .;lib/ECLA.jar;lib/opencv-2413.jar;lib/DTNConsoleConnection.jar core.DTNSim %*
